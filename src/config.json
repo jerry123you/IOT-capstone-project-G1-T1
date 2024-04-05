@@ -1,0 +1,18 @@
+{
+  "ads": {
+    "localAmsNetId": "192.168.0.120.1.1", 
+    "localAdsPort": 32720,
+    "targetAmsNetId": "10.193.21.105.1.1",
+    "targetAdsPort": 851,
+    "routerAddress": "192.168.0.210",
+    "routerTcpPort": 48898
+  },  
+  "mqtt": {
+    "brokerUrl": "mqtt://192.168.0.211",
+    "mqttPort": 1883,
+    "baseTopic": "academy20/"
+  },
+  "samplingInterval": 2000
+
+}
+
